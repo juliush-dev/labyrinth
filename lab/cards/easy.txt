@@ -1,0 +1,11 @@
+OOOOOOOOOO
+O 0  0 O O
+O 0 OOO.OO
+O O O  0 O
+O O OO.O.O
+O O O    O
+O OOO.OO.O
+O O ..O .O
+O O.O.OOOO
+O 0.O    U
+OOOOOOOOOO
